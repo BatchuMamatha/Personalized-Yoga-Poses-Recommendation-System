@@ -2,8 +2,6 @@
 
 ---
 
-**GitHub Repository:** [https://github.com/BatchuMamatha/Personalized-Yoga-Poses-Recommendation-System](https://github.com/BatchuMamatha/Personalized-Yoga-Poses-Recommendation-System)
-
 **Live Demo:** [https://yogaposes-601539921494.us-central1.run.app](https://yogaposes-601539921494.us-central1.run.app)
 
 ---
@@ -1021,19 +1019,6 @@ The live application demonstrates:
 3. **Filter Controls:** Interactive expertise level filters for refining results
 4. **Audio Controls:** Play and stop buttons for text-to-speech functionality
 5. **Mobile View:** Fully responsive design adapting to smaller screens
-
-### 7.7 Source Code Repository
-
-The complete source code for this project is available on GitHub:
-
-**Repository URL:** [https://github.com/BatchuMamatha/Personalized-Yoga-Poses-Recommendation-System](https://github.com/BatchuMamatha/Personalized-Yoga-Poses-Recommendation-System)
-
-The repository includes:
-- All Python backend source code
-- Frontend HTML/CSS/JavaScript
-- Configuration templates
-- Data processing scripts
-- Documentation
 
 ---
 
